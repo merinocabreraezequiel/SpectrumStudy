@@ -35,4 +35,4 @@ This project is undel license (GPL3) - Read about on the file [LICENSE](LICENSE)
 * **old8bits blog**, for the translation of the original "How to Write ZX Spectrum Games" guide from Jonathan Cauldwell [View](http://old8bits.blogspot.com/2016/04/como-escribir-juegos-para-el-zx_12.html)
 * **Jonathan Cauldwell**, for the original "How to Write ZX Spectrum Games" [Download](https://jonathan-cauldwell.itch.io/how-to-write-spectrum-games)
 * **ZX-OpenSource Free Project** [view](https://calentamientoglobalacelerado.net/ZXopensource/), for the awesome pack and guide to setup a Enviroment for dev to Z80 [Download](http://www.abcdatos.com/programa/devasm-z80-kit-completo-de-desarrollo.html)
-
+* **Jesús Alonso Rodrigurez**, for the "Codigo Máquina Del ZX-Spectrum" [PDF](https://openlibra.com/es/book/codigo-maquina-del-zx-spectrum) edited by MicroHobby and bringed free on OpenLibra Project [Visit](https://openlibra.com/es) 
